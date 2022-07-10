@@ -28,9 +28,7 @@ Users should be able to:
 ![](./screenshot_mobile.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:[Frontend Mentor | Product preview card component](https://productpreviewcardcomponent4206.netlify.app/)
 
 ### Built with
 
@@ -56,5 +54,5 @@ While working with images properties and adjusting the width and height properti
 Not only this I also have to learn other concepts like javascript to complete my Frontend part atleast first.
 ## Author
 
-- Website - [Frontend Mentor | Product preview card component](https://www.your-site.com)
+- Website - [Frontend Mentor | Product preview card component](https://productpreviewcardcomponent4206.netlify.app/)
 - Frontend Mentor - [@Priyanshu4206](https://www.frontendmentor.io/profile/Priyanshu4206)
