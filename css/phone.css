@@ -1,0 +1,8 @@
+.Container {
+    flex-direction: column;
+}
+.img
+{
+    object-fit: cover;
+    max-height: 246px;
+}
